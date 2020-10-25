@@ -30,6 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,11 +46,18 @@
       <workItem from="1603609488597" duration="2366000" />
       <workItem from="1603613263850" duration="2457000" />
       <workItem from="1603622220305" duration="2196000" />
-      <workItem from="1603631841095" duration="339000" />
+      <workItem from="1603631841095" duration="402000" />
+      <workItem from="1603633954645" duration="4365000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603634849239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="440" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1603634849239" />
   </component>
 </project>
