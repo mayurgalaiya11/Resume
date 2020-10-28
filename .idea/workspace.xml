@@ -30,6 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/digimore/wp-content/themes" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -49,6 +50,9 @@
       <workItem from="1603631841095" duration="402000" />
       <workItem from="1603633954645" duration="4365000" />
       <workItem from="1603707617903" duration="744000" />
+      <workItem from="1603729612236" duration="465000" />
+      <workItem from="1603732136806" duration="156000" />
+      <workItem from="1603874140761" duration="1189000" />
     </task>
     <servers />
   </component>
@@ -60,5 +64,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1603634849239" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603732293832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603732293832" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1603893698039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603893698039" />
   </component>
 </project>
